@@ -1,0 +1,11 @@
+<svg id="Logo-Horizontal" version="1.1" sodipodi:docname="SVG-Eyecademy-Logo.svg" inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 -0.02 200 214.62">
+  <sodipodi:namedview id="namedview51" pagecolor="#505050" bordercolor="#eeeeee" borderopacity="1" inkscape:pageshadow="0" inkscape:pageopacity="0" inkscape:pagecheckerboard="0" showgrid="false" inkscape:zoom="0.95922049" inkscape:cx="963.80344" inkscape:cy="106.8576" inkscape:window-width="1920" inkscape:window-height="1017" inkscape:window-x="1358" inkscape:window-y="-8" inkscape:window-maximized="1" inkscape:current-layer="Logo-Horizontal"/>
+  <defs id="defs33">
+    <style id="style31">.cls-1{fill:#11263c;}.cls-2{fill:#ed1e79;}</style>
+  </defs>
+  <g id="LEFT-icon-final_w_edge_round_0.5" data-name="LEFT-icon-final w/ edge round 0.5">
+    <path id="E-left" class="cls-1" d="M320.11,601l69.63,38.68a.51.51,0,0,1,.26.44V659a.49.49,0,0,1-.74.43l-68.67-38.14a.5.5,0,0,0-.74.44v18.91a.51.51,0,0,0,.26.44l69.63,38.68a.51.51,0,0,1,.26.44V699a.49.49,0,0,1-.74.43l-89-49.44a.51.51,0,0,1-.26-.44V550.69a.5.5,0,0,1,.74-.44l89,49.44.26.44V619a.49.49,0,0,1-.74.43l-68.67-38.14a.5.5,0,0,0-.74.44v18.91A.51.51,0,0,0,320.11,601Z" transform="translate(-300 -484.91)"/>
+    <path id="E-right" class="cls-1" d="M479.89,601l-69.63,38.68a.51.51,0,0,0-.26.44V659a.49.49,0,0,0,.74.43l68.67-38.14a.5.5,0,0,1,.74.44v18.91a.51.51,0,0,1-.26.44l-69.63,38.68a.51.51,0,0,0-.26.44V699a.49.49,0,0,0,.74.43l89-49.44a.51.51,0,0,0,.26-.44V550.69a.5.5,0,0,0-.74-.44l-89,49.44a.51.51,0,0,0-.26.44V619a.49.49,0,0,0,.74.43l68.67-38.14a.5.5,0,0,1,.74.44v18.91A.51.51,0,0,1,479.89,601Z" transform="translate(-300 -484.91)"/>
+    <path id="top" class="cls-2" d="M489.21,535.28l-89,49.42a.46.46,0,0,1-.48,0l-89-49.42a.5.5,0,0,1,0-.88l89-49.43a.51.51,0,0,1,.48,0l89,49.43A.5.5,0,0,1,489.21,535.28Z" transform="translate(-300 -484.91)"/>
+  </g>
+</svg>
